@@ -1,0 +1,17 @@
+{
+  "name": "strut-oa3",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brendan Molloy <brendan@bbqsrc.net> (https://brendan.so/)",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.10.0",
+    "json-ref-lite": "^1.1.0",
+    "json-refs": "^3.0.2",
+    "rxjs": "^5.5.6"
+  }
+}
